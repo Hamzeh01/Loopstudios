@@ -8,7 +8,7 @@
     "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch"
   },
   "keywords": [],
-  "author": "Hamzeh01",
+  "author": "Hossein Hamze <cs.04.hamze@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.0.24"
