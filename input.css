@@ -31,7 +31,7 @@
 }
 
 .item-b-border {
-  @apply mx-3 group-hover:border-b group-hover:border-blue-50 border-blue-50;
+  @apply mx-3 my-1 group-hover:border-b group-hover:border-blue-50;
 }
 
 /* Hamburger Menu */
