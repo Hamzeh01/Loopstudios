@@ -23,11 +23,11 @@ This document provides documentation for the Loopstudious Front-end Challenge, w
 
 ### 2. Live Demo <a name="live-demo"></a>
 
-You can access the live demo of the project by following this [link](#) [https://hamzeh01.github.io/Loopstudios/].
+You can access the live demo of the project by following this [link](https://hamzeh01.github.io/Loopstudios/).
 
 ### 3. Screenshot <a name="screenshot"></a>
 
-![Project Screenshot](#) ["screen.png"]
+![Project Screenshot](screen.png)
 
 ### 4. Project Description <a name="project-description"></a>
 
